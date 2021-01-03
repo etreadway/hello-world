@@ -1,3 +1,3 @@
 Hello!
 
-This is a new line to see how git diff works.
+This is just a repository for the git-it tutorial.
